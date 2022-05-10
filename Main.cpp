@@ -45,4 +45,5 @@ int main()
 	}
 
 	delete[] set;
+	delete[] positions;
 }
